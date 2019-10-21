@@ -1,0 +1,56 @@
+
+body {
+  border-style: solid;
+}
+
+.topnav {
+  overflow: hidden;
+  border-style: solid;
+  background-color: silver;
+}
+.topnav a {
+  float: right;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+border-style: hidden;
+
+}
+
+h1 {
+  text-align: center;
+  border-style: hidden;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: row;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center ;
+  align-items: baseline;
+  border-style:solid;
+  background-color: silver;
+}
+
+.itme {
+  background-color: pink ;
+  height: 150px ;
+  width: 150px ;
+  margin : 40px ;
+}
+p {
+  text-align: center;
+  font-size: 22px;
+  margin: 100px;
+  border-style:solid;
+  border-spacing: inherit;
+}
+nav {
+  text-align: right;
+  margin: 100px;
+  background-color: silver;
+}
+
