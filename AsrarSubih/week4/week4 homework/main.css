@@ -1,0 +1,19 @@
+body {
+    background-color: gold;
+}
+
+h3 {
+    
+    text-align: center;
+    font-style: italic;
+    font-family: initial;
+    color: darkolivegreen;
+
+}
+
+button {
+    background-color: olive;
+    justify-content: center;
+    position: fixed;
+    
+}
